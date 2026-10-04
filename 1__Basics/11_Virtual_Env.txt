@@ -1,0 +1,17 @@
+To Create Virtual Environment   :-  python -m venv environment_name  
+
+
+To Activate Virtual Environment :-  environment_name\Scripts\activate
+
+
+To Desctivate Virtual Environment   :-  deactivate
+
+
+To create requirement.txt   :-  pip freeze > requirement.txt
+
+
+To Show Packages on Teminal :-  pip freeze
+
+
+
+
